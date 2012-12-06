@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/bricks">
+        <file alias="brick_O">resources/bricks/brick_O.xml</file>
+    </qresource>
+</RCC>
